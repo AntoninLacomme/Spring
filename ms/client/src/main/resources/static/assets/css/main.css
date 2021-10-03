@@ -1,0 +1,23 @@
+body {
+    background-color: dimgray;
+}
+
+nav.menu > ul {
+    list-style: none;
+    display: flex;
+    display-model: 100%;
+}
+
+nav.menu > ul > li {
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.flex-right {
+    float: right;
+    margin: 1em;
+}
+
+div.card {
+    background-color: darkgray;
+}
